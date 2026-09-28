@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output videos and frames
+frames/
+output/
+*.mp4
+*.avi
+
+# PyTorch models / checkpoints
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
